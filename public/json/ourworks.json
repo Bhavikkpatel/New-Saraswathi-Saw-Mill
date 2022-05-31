@@ -1,0 +1,42 @@
+{
+    "fileNames": [
+        "1.jpg",
+        "11.jpg",
+        "2.jpg",
+        "3.jpg",
+        "5.jpg",
+        "6.jpg"
+    ],
+    "ourwork": [
+        {
+            "src": "images/myimages/1.jpg",
+            "title": "1.jpg",
+            "desc": "Code1"
+        },
+        {
+            "src": "images/myimages/11.jpg",
+            "title": "11.jpg",
+            "desc": "Code1"
+        },
+        {
+            "src": "images/myimages/2.jpg",
+            "title": "2.jpg",
+            "desc": "Code1"
+        },
+        {
+            "src": "images/myimages/3.jpg",
+            "title": "3.jpg",
+            "desc": "Code1"
+        },
+        {
+            "src": "images/myimages/5.jpg",
+            "title": "5.jpg",
+            "desc": "Code1"
+        },
+        {
+            "src": "images/myimages/6.jpg",
+            "title": "6.jpg",
+            "desc": "Code1"
+        }
+    ]
+}
