@@ -84,4 +84,4 @@ app.post("/submitmail", urlencodedParser, (req, res) => {
   res.sendStatus(200);
 });
 
-app.listen(port, () => console.log(`listening port: ${port}`));
+app.listen(process.env.PORT || port, () => console.log(`listening port: ${port}`));
